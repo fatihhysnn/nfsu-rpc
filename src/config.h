@@ -4,4 +4,4 @@
 #define UPD_INTVL 5000
 
 #define UNK_TRACK "Unknown"
-#define IN_MENU "Main Menu" // ANY menu
+#define IN_MENU "Ana Menüde" // ANY menu
